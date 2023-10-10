@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CCookbook.WebApp", "CCookbook.WebApp\CCookbook.WebApp.csproj", "{E3614AE3-9D8A-4F5B-A25B-2B41284653EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E3614AE3-9D8A-4F5B-A25B-2B41284653EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3614AE3-9D8A-4F5B-A25B-2B41284653EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3614AE3-9D8A-4F5B-A25B-2B41284653EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3614AE3-9D8A-4F5B-A25B-2B41284653EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E570FEA2-8655-41C7-B677-43FFDCEAC681}
+	EndGlobalSection
+EndGlobal
