@@ -6,6 +6,7 @@ var app = builder.Build();
 
 if (!app.Environment.IsDevelopment())
 {
+    app.UseWebAssemblyDebugging();
     app.UseExceptionHandler("/Home/Error");
     app.UseHsts();
 }
@@ -16,6 +17,7 @@ app.UseStaticFiles();
 app.UseRouting();
 
 app.UseAuthorization();
+app.UseBlazorFrameworkFiles();
 
 app.MapControllerRoute(
     name: "default",
