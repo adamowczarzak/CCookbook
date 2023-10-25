@@ -20,19 +20,3 @@ html {
 body {
   margin-bottom: 60px;
 }
-
-.frame {
-    border: 2px solid #007bff;
-    padding: 20px;
-    border-radius: 5px;
-    box-shadow: 0px 0px 5px 0px #ccc;
-}
-
-    .frame h3 {
-        font-size: 20px;
-        margin-bottom: 10px;
-    }
-
-    .frame p {
-        font-size: 16px;
-    }
