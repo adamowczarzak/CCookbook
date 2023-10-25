@@ -5,7 +5,7 @@ VisualStudioVersion = 17.7.34031.279
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CCookbook.WebApp", "CCookbook.WebApp\CCookbook.WebApp.csproj", "{E3614AE3-9D8A-4F5B-A25B-2B41284653EE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CCookbook.WebApp.Components", "CCookbook.WebApp.Components\CCookbook.WebApp.Components.csproj", "{BFD430B8-0AD8-42EF-90FF-286643601CD7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CCookbook.WebApp.Components", "CCookbook.WebApp.Components\CCookbook.WebApp.Components.csproj", "{BFD430B8-0AD8-42EF-90FF-286643601CD7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
