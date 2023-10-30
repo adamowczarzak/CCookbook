@@ -2,17 +2,19 @@
     border: 2px solid #017bef;
     padding: 2px;
     border-radius: 5px;
-    box-shadow: 0px 0px 5px 0px #ccc;
+    box-shadow: 0px 0px 10px 0px #ccc;
     max-width: 300px;
     text-align: center;
     font-family: arial;
+    display: inline-block;
+    margin: 10px;
 }
 
     .dishcard h3 {
-        font-size: 50px;
-        margin-bottom: 100px;
+        font-size: 40px;
+        margin-bottom: 10px;
     }
 
     .dishcard p {
-        font-size: 36px;
+        font-size: 30px;
     }
